@@ -11,7 +11,7 @@ const projects = [
   },
   {
     title: "Blogsite",
-    description: "A personal blogsite built with Next.js and Tailwind CSS.",
+    description: "A career blogsite, featuring full CRUD functionality for managing articles.",
     image: "puvlic/images/blogsite.png",
     technologies: ["Python", "Django", "Bootstrap"],
     demoLink: "#",
