@@ -10,12 +10,12 @@ const projects = [
     repoLink: "https://github.com/MpumiNico/Inventory_system"
   },
   {
-    title: "Health Tracking App",
-    description: "Mobile application for tracking fitness activities, nutrition, and health metrics with data visualization.",
-    image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-    technologies: ["React Native", "Firebase", "Chart.js"],
+    title: "Blogsite",
+    description: "A personal blogsite built with Next.js and Tailwind CSS.",
+    image: "puvlic/images/blogsite.png",
+    technologies: ["Python", "Django", "Bootstrap"],
     demoLink: "#",
-    repoLink: "#"
+    repoLink: "https://github.com/MpumiNico/blogsite"
   },
   {
     title: "Content Management System",
