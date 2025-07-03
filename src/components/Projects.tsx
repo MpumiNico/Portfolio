@@ -29,14 +29,13 @@ const projects = [
     repoLink: "https://github.com/MpumiNico/To-do-list",
   },
   {
-    title: "Real-Time Chat Application",
+    title: "Weather App",
     description:
-      "Messaging platform with real-time communication, user profiles, and message encryption.",
-    image:
-      "https://images.unsplash.com/photo-1587691592099-24045742c181?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-    technologies: ["Socket.io", "Express", "React", "MongoDB"],
-    demoLink: "#",
-    repoLink: "#",
+      "A responsive weather application built using React and Axios that allows users to view real-time weather information for any city worldwide",
+    image: "/images/certifications/weather-app.png",
+    technologies: ["HTML", "CSS", "Javascript", "React"],
+    demoLink: "https://projectappweather.netlify.app/",
+    repoLink: "https://github.com/MpumiNico/weather-app-project",
   },
 ];
 
