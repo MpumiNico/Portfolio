@@ -26,7 +26,7 @@ const projects = [
     image: "/images/certifications/todo-list.png",
     technologies: ["HTML", "CSS", "JavaScript"],
     demoLink: "#",
-    repoLink: "#",
+    repoLink: "https://github.com/MpumiNico/To-do-list",
   },
   {
     title: "Real-Time Chat Application",
