@@ -25,7 +25,7 @@ const projects = [
       "This is a simple and user-friendly task management application designed to help users organize their daily activities.",
     image: "/images/certifications/todo-list.png",
     technologies: ["HTML", "CSS", "JavaScript"],
-    demoLink: "#",
+    demoLink: "https://to-do-list-delta-six-78.vercel.app/",
     repoLink: "https://github.com/MpumiNico/To-do-list",
   },
   {
