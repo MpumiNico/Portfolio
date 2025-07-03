@@ -5,7 +5,7 @@ const projects = [
     title: "Inventory System",
     description:
       "The Inventory Management System is a web-based application designed to help small retail businesses effectively manage their stock levels, sales, and reporting.",
-    image: "public/images/certification/Inventory.png",
+    image: "/images/certifications/Inventory.png",
     technologies: ["PHP", "MYSQL", "Bootstrap"],
     demoLink: "#",
     repoLink: "https://github.com/MpumiNico/Inventory_system",
@@ -14,7 +14,7 @@ const projects = [
     title: "Blogsite",
     description:
       "A career blogsite, featuring full CRUD functionality for managing articles.",
-    image: "puvlic/images/certification/blogsite.png",
+    image: "/images/certifications/blogsite.png",
     technologies: ["Python", "Django", "Bootstrap"],
     demoLink: "#",
     repoLink: "https://github.com/MpumiNico/blogsite",
