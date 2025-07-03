@@ -57,7 +57,7 @@ const About = () => {
             
 
             <a
-              href="#" 
+              href="https://www.canva.com/design/DAGnhH1D7GU/Bm2Q1Eva4h431lkrdkZOgw/view?utm_content=DAGnhH1D7GU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc2af7655eb" 
               className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full font-medium inline-flex items-center transition-colors shadow-lg"
               target="_blank"
               rel="noopener noreferrer"
