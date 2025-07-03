@@ -20,12 +20,11 @@ const projects = [
     repoLink: "https://github.com/MpumiNico/blogsite",
   },
   {
-    title: "Content Management System",
+    title: "To-do List",
     description:
-      "Custom CMS built for a marketing agency with advanced content editing and user permission controls.",
-    image:
-      "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-    technologies: ["Django", "PostgreSQL", "JavaScript", "AWS"],
+      "This is a simple and user-friendly task management application designed to help users organize their daily activities.",
+    image: "/images/certifications/todo-list.png",
+    technologies: ["HTML", "CSS", "JavaScript"],
     demoLink: "#",
     repoLink: "#",
   },
