@@ -32,7 +32,7 @@ const projects = [
     title: "Weather App",
     description:
       "A responsive weather application built using React and Axios that allows users to view real-time weather information for any city worldwide",
-    image: "/images/certifications/weather-app.png",
+    image: "/images/certifications/weather.png",
     technologies: ["HTML", "CSS", "Javascript", "React"],
     demoLink: "https://projectappweather.netlify.app/",
     repoLink: "https://github.com/MpumiNico/weather-app-project",
