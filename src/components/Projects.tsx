@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Inventory System",
+    title: "Inventory System - In progress",
     description:
       "The Inventory Management System is a web-based application designed to help small retail businesses effectively manage their stock levels, sales, and reporting.",
     image: "/images/certifications/Inventory.png",
