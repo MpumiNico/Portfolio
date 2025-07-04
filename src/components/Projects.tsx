@@ -16,7 +16,7 @@ const projects = [
       "A career blogsite, featuring full CRUD functionality for managing articles.",
     image: "/images/certifications/blogsite.png",
     technologies: ["Python", "Django", "Bootstrap"],
-    demoLink: "#",
+    demoLink: "https://blogsitep.netlify.app/",
     repoLink: "https://github.com/MpumiNico/blogsite",
   },
   {
